@@ -17,7 +17,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="(https://miro.medium.com/v2/resize:fit:1400/1*KNHAWYClePKnGEDgoEgAgA.gif)">
+  <img align="center" alt="Coding" width="450" ![gifgithub](https://miro.medium.com/v2/resize:fit:1400/1*KNHAWYClePKnGEDgoEgAgA.gif)>
 
   
   </td>
