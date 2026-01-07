@@ -81,3 +81,16 @@
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a> 
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="hardhat" height="50" /></a>  
 </div>
+
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+
+<h2 align="center"><u>My Github Stats</u></h2>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TekyaygilFethi&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
+<br>
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=TekyaygilFethi&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
+<br>
+<br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TekyaygilFethi&theme=holi-theme">
+</p>
