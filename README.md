@@ -1,7 +1,21 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=550&height=100&lines=Hola+Bienvenidos+a+mi+GitHub%2C+soy+Miguel...)](https://git.io/typing-svg)
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/43a8141c-1e7d-4754-b6d7-39af6b79864e" alt="GitHub Banner showcasing a professional profile" width="100%">
+   <img align="right" src="https://komarev.com/ghpvc/?username=miguelmejias0512" alt="GitHub profile views counter">
+  <img align="right" alt="Static Badge" src="https://img.shields.io/github/followers/miguelmejias0512.svg?style=social&label=Followers">
 </div>
- <img align="right" src="https://komarev.com/ghpvc/?username=miguelmejias0512" alt="GitHub profile views counter">
+
+
+
+
+
+
+
+
+
+
+
 # 💫 About Me:
 
 <div>
@@ -10,7 +24,7 @@
 
 
 
-#### 👋 ¡Hola! Soy un Ingeniero en Informática de Venezuela<br><br>Con más de **30 años de experiencia** transformando ideas en soluciones tecnológicas, combino la sabiduría de décadas en informática con la pasión por las tecnologías emergentes que están redefiniendo nuestro futuro digital.<br><br>## 🚀 Mi Stack Tecnológico<br><br>**Lenguajes & Frameworks:**<br>- 🐍 **Python** - Mi herramienta principal para desarrollo, scripting y soluciones de IA<br>- ⛓️ **Blockchain Development** - Contratos inteligentes con Solidity, Scaffold, Hardhat y Foundry<br>- 🤖 **Inteligencia Artificial** - Implementando soluciones que aprenden y evolucionan<br><br>**Automatización & DevOps:**<br>- 🔄 **n8n** - Orquestando workflows y automatizaciones complejas<br>- 🐧 **Linux Debian 13** - Mi entorno de trabajo principal desde hace décadas<br>- ⚙️ **Automatización de Procesos** - Optimizando operaciones y maximizando eficiencia<br><br>## 💡 Lo que me define<br><br>A los 55 años, mi curiosidad por la tecnología es más fuerte que nunca. He evolucionado desde los primeros días de la informática hasta el mundo descentralizado de Web3, manteniendo siempre una mentalidad de aprendizaje continuo. Esta combinación única de **experiencia probada** y **visión de futuro** me permite abordar proyectos con una perspectiva integral que pocos profesionales pueden ofrecer.<br><br>## 🎯 Mi enfoque<br><br>Creo en código limpio, soluciones escalables y en el poder transformador de la tecnología cuando se aplica con propósito. Ya sea desarrollando contratos inteligentes, automatizando procesos complejos o implementando soluciones de IA, mi objetivo es crear valor tangible y duradero.<br><br>## 📫 ¿Hablamos?<br><br>Siempre abierto a colaborar en proyectos innovadores, especialmente aquellos que involucren blockchain, automatización inteligente o IA. Si buscas un profesional con experiencia sólida y pasión por la innovación, conectemos.<br><br>---<br><br>*"La experiencia te enseña qué funciona. La pasión te impulsa a descubrir qué es posible."*
+#### 👋 ¡Hola! Soy un Ingeniero en Informática de Venezuela 🇻🇪 <br><br>Con más de **30 años de experiencia** transformando ideas en soluciones tecnológicas, combino la sabiduría de décadas en informática con la pasión por las tecnologías emergentes que están redefiniendo nuestro futuro digital.<br><br>## 🚀 Mi Stack Tecnológico<br><br>**Lenguajes & Frameworks:**<br>- 🐍 **Python** - Mi herramienta principal para desarrollo, scripting y soluciones de IA<br>- ⛓️ **Blockchain Development** - Contratos inteligentes con Solidity, Scaffold, Hardhat y Foundry<br>- 🤖 **Inteligencia Artificial** - Implementando soluciones que aprenden y evolucionan<br><br>**Automatización & DevOps:**<br>- 🔄 **n8n** - Orquestando workflows y automatizaciones complejas<br>- 🐧 **Linux Debian 13** - Mi entorno de trabajo principal desde hace décadas<br>- ⚙️ **Automatización de Procesos** - Optimizando operaciones y maximizando eficiencia<br><br>## 💡 Lo que me define<br><br>A los 55 años, mi curiosidad por la tecnología es más fuerte que nunca. He evolucionado desde los primeros días de la informática hasta el mundo descentralizado de Web3, manteniendo siempre una mentalidad de aprendizaje continuo. Esta combinación única de **experiencia probada** y **visión de futuro** me permite abordar proyectos con una perspectiva integral que pocos profesionales pueden ofrecer.<br><br>## 🎯 Mi enfoque<br><br>Creo en código limpio, soluciones escalables y en el poder transformador de la tecnología cuando se aplica con propósito. Ya sea desarrollando contratos inteligentes, automatizando procesos complejos o implementando soluciones de IA, mi objetivo es crear valor tangible y duradero.<br><br>## 📫 ¿Hablamos?<br><br>Siempre abierto a colaborar en proyectos innovadores, especialmente aquellos que involucren blockchain, automatización inteligente o IA. Si buscas un profesional con experiencia sólida y pasión por la innovación, conectemos.<br><br>---<br><br>*"La experiencia te enseña qué funciona. La pasión te impulsa a descubrir qué es posible."*
 
 <div align="center">
   <picture>
@@ -51,11 +65,14 @@
 <img align="center" alt="visitors" src="https://github.com/miguelmejias0512" />
 
 
+
+
+
 <p>
   <h4 align="center"><b>"Talk is cheap. Show me the code"</b></h4>
 </p>
 
-
+[![An image of @miguelmejias0512's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/miguelmejias0512)](https://holopin.io/@miguelmejias0512)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=miguelmejias0512&theme=gruvbox_light&no-frame=false&no-bg=true&margin-w=4)
