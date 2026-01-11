@@ -97,10 +97,13 @@
 
 <img align="center" alt="pic1" src="https://github.com/miguelmejias0512/miguelmejias0512/blob/main/transform-your-business-with-ai-agent6.gif" />
 
-## 🏆 GitHub Trophies
+<!--
+ ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=miguelmejias0512&theme=gruvbox_light&no-frame=false&no-bg=true&margin-w=4)
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=miguelmejias0512theme=gruvbox" />
+-->
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
