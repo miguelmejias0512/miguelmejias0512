@@ -95,7 +95,7 @@
   <h4 align="center"><b>"Talk is cheap. Show me the code"</b></h4>
 </p>
 
-<img align="center" alt="pic1" src="https://github.com/miguelmejias0512/miguelmejias0512/blob/main/a98acab0-2fa6-4c86-976e-996d5af00c59.gif" />
+<img align="center" alt="pic1" src="https://github.com/miguelmejias0512/miguelmejias0512/blob/main/transform-your-business-with-ai-agent6.gif" />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=miguelmejias0512&theme=gruvbox_light&no-frame=false&no-bg=true&margin-w=4)
@@ -105,8 +105,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=miguelmejias0512&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=miguelmejias0512&icon=0&color=0)](https://visitcount.itsvg.in)
