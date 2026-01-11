@@ -76,7 +76,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=miguelmejias0512&theme=algolia&hide_border=false&include_all_commits=false&count_private=true"/>
 </a>
 <a href="https://github.com/miguelmejias0512">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=miguelmejias0512&layout=compact&langs_count=8&theme=algolia&hide"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=miguelmejias0512&layout=compact&langs_count=20&theme=algolia&hide"/>
 </a>
 
 ![](https://github-readme-stats.vercel.app/api?username=miguelmejias0512&theme=neon&hide_border=false&include_all_commits=false&count_private=true)<br/>
