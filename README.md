@@ -42,6 +42,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/DarthSiniestrus) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/miguelmejias0512) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miguelmejias0512)
 
 # 💻 Tech Stack:
+<img align="center" alt="pic3" src="https://github.com/miguelmejias0512/miguelmejias0512/blob/main/No-Code--11-.gif" />
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
