@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=550&height=100&lines=Hola+Bienvenidos+a+mi+GitHub%2C+soy+Miguel...)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/43a8141c-1e7d-4754-b6d7-39af6b79864e" alt="GitHub Banner showcasing a professional profile" width="100%">
+  <img src="https://github.com/miguelmejias0512/miguelmejias0512/blob/main/Snap.png" width="100%">
    <img align="right" src="https://komarev.com/ghpvc/?username=miguelmejias0512" alt="GitHub profile views counter">
   <img align="right" alt="Static Badge" src="https://img.shields.io/github/followers/miguelmejias0512.svg?style=social&label=Followers">
 </div>
