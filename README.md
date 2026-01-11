@@ -95,7 +95,7 @@
   <h4 align="center"><b>"Talk is cheap. Show me the code"</b></h4>
 </p>
 
-[![An image of @miguelmejias0512's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/miguelmejias0512)](https://holopin.io/@miguelmejias0512)
+<img align="center" alt="pic1" src="https://github.com/miguelmejias0512/miguelmejias0512/blob/main/a98acab0-2fa6-4c86-976e-996d5af00c59.gif" />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=miguelmejias0512&theme=gruvbox_light&no-frame=false&no-bg=true&margin-w=4)
@@ -111,3 +111,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=miguelmejias0512&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<img align="center" alt="pic2" src="https://github.com/miguelmejias0512/miguelmejias0512/blob/main/204871672-98eeac12-1d33-4f4a-9aa3-c0d820b6d942.gif" />
