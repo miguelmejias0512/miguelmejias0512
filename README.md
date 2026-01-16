@@ -96,7 +96,7 @@
 
 
 
-<img align="center" alt="visitors" src="https://github.com/miguelmejias0512" />
+
 
 
 
